@@ -1,0 +1,49 @@
+body {
+    background-image: url('../Imagenes/Fondo\ Videojuegos.jpeg'); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+
+}
+
+.encabezado {
+    background-color: rgba(122, 136, 145, 0.8);
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
+    margin: 10px;
+}
+
+.encabezado h2 {
+    margin: 0;
+    color: #ffffff;
+}
+
+.parrafo {
+    background-color: rgba(242, 242, 242, 0.8);
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 10px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin: 25px;
+}
+
+.parrafo p {
+    margin: 0;
+    color: #333333;
+}
+.list-group-item {
+    background-color: #a89d9d;
+}
+.rectangulo {
+    background-color: rgba(95, 91, 91, 0.8); /* Color de fondo del rectángulo */
+    padding: 5px; /* Espacio alrededor del contenido */
+    border-radius: 100px; /* Bordes redondos del rectángulo */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra del rectángulo */
+}
+
+/* Estilos para las tarjetas (cards) dentro del rectángulo */
+.card {
+    margin: 10px; /* Espacio entre las tarjetas */
+}
+
